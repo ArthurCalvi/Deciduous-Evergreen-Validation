@@ -1,0 +1,44 @@
+NomSER,set,phen_en,count,total_pixels
+Ardenne primaire,training,deciduous,1437,35401
+Ardenne primaire,validation,deciduous,669,15887
+Châtaigneraie du Centre et de l'Ouest,training,deciduous,3220,110134
+Châtaigneraie du Centre et de l'Ouest,training,evergreen,1292,110134
+Châtaigneraie du Centre et de l'Ouest,validation,None,0,45802
+Châtaigneraie du Centre et de l'Ouest,validation,deciduous,91,73529
+Châtaigneraie du Centre et de l'Ouest,validation,evergreen,2904,73529
+Corse occidentale,training,deciduous,385,9624
+Corse occidentale,training,evergreen,1546,47529
+Corse occidentale,validation,deciduous,18,37357
+Corse occidentale,validation,evergreen,1531,37357
+Côtes et plateaux de la Manche,training,deciduous,1280,36353
+Côtes et plateaux de la Manche,training,evergreen,203,4972
+Côtes et plateaux de la Manche,validation,deciduous,394,22353
+Côtes et plateaux de la Manche,validation,evergreen,607,15010
+Garrigues,training,deciduous,8854,223484
+Garrigues,training,evergreen,2025,199080
+Garrigues,validation,deciduous,1507,91333
+Garrigues,validation,evergreen,5384,167753
+Massif vosgien central,training,deciduous,76,635
+Massif vosgien central,training,evergreen,10,635
+Massif vosgien central,validation,deciduous,47,434
+Massif vosgien central,validation,evergreen,21,351
+Ouest-Bretagne et Nord-Cotentin,training,deciduous,59,236
+Ouest-Bretagne et Nord-Cotentin,training,evergreen,1,59
+Ouest-Bretagne et Nord-Cotentin,validation,deciduous,52,218
+Ouest-Bretagne et Nord-Cotentin,validation,evergreen,4,167
+Piémont pyrénéen,training,deciduous,33,163
+Piémont pyrénéen,training,evergreen,7,127
+Piémont pyrénéen,validation,deciduous,47,187
+Premier plateau du Jura,training,None,0,3196
+Premier plateau du Jura,training,deciduous,23,17889
+Premier plateau du Jura,training,evergreen,170,4294
+Premier plateau du Jura,validation,deciduous,91,6900
+Premier plateau du Jura,validation,evergreen,147,3684
+Préalpes du Nord,training,deciduous,708,77197
+Préalpes du Nord,training,evergreen,2627,65294
+Préalpes du Nord,validation,deciduous,656,50954
+Préalpes du Nord,validation,evergreen,2667,65613
+Terres rouges,training,deciduous,7066,173044
+Terres rouges,training,evergreen,1,56306
+Terres rouges,validation,deciduous,4930,184862
+Terres rouges,validation,evergreen,2582,63906
